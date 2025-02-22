@@ -1,2 +1,2 @@
-# Computer_Vission
+# Computer Vision
 Finding Lanes for Self Driving Car
